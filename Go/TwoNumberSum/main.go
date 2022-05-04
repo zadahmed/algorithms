@@ -1,3 +1,4 @@
+// Algorithm that finds pairs of numbers in an array that would sum to a target number provided
 package main
 
 import (
