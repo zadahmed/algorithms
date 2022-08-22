@@ -1,5 +1,8 @@
+// Algorithm to validate if subsequence within a sequence
+
 package main
 
+// Time o(n) / Space o(n)
 func validSubsequence(array []int, subsequence []int) bool {
 	arrayIndex := 0
 	subseqIndex := 0
